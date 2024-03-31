@@ -1,3 +1,6 @@
+Description
+Welcome to my portfolio website! This site serves as a showcase of my skills, projects, and experiences as I journey towards becoming an Android app developer. Through this platform, I aim to demonstrate my proficiency, creativity, and passion for mobile app development.
+
 Portfolio link -
 https://sahurajat.github.io/rajatsahu.github.io/
 
